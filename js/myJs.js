@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu Con Gái!",
-  text2: "Bố có điều này muốn hỏi Con gái nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Mẫu người yêu của con là gì Hằng ._.",
-  text4: "Không thoát ra đấy nhá con gái :v",
-  text5: "Cao ,đẹp trai ,tay đẹp,sáu múi!!!",
+  text1: "He luu Ngọc",
+  text2: "Hỏi em cái này.",
+  text3: "Mẫu người yêu của Em là gì ._.",
+  text4: "Trả lời nhaaa :v",
+  text5: "Cao , đẹp trai , yêu marvel, thích taylor, đam mê anime , yêu em như anh!",
   text6: "Chóoooooo <3",
-  text7: "???Sao m lại thích chó @@",
-  text8: "Gửi tới Bố yêu <3",
-  text9: "Vì chỉ có Chó mới yêu con ",
-  text10: "Thông minh lắm hahaha ^^ ",
+  text7: "???Sao em lại thích chó @@",
+  text8: "Gửi tới Anh iu <3",
+  text9: "Vì chỉ có Chó mới yêu em ",
+  text10: " Vậy thì... ^^ ",
   text11:
-    "Con gái bố Ngọc có khác",
-  text12: "Okii lunn <3",
+    "Gâu Gâu.",
+  text12: "Love You Three Thousand",
 };
 
 $(document).ready(function () {
